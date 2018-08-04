@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnnwordrnnwordtest.ckpt-30000"
+all_model_checkpoint_paths: "rnnwordrnnwordtest.ckpt-30000"
